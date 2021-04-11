@@ -1,0 +1,51 @@
+.picture-100{
+border-radius: 50%;
+border: solid 10px peachpuff;
+align-items: center;
+height: 450px;
+width: 450px;
+}
+
+.head-page{
+
+text-align: center;
+border: solid 5px peachpuff;
+border-radius: 8%;
+
+}
+
+h3{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: xx-large;
+color: rgb(119, 112, 216);
+text-align: center;
+
+}
+
+h2{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: xx-large;
+  color: rgb(112, 122, 216);
+  text-align: center;
+  
+  }
+  .page-footerfont-smallpt-4mt-4{
+text-align: center;
+  }
+  .btnbtn-dangerbtn-rounded{
+border: solid 1px black;
+background-color: yellow;
+border-radius: 20%;
+color: purple;
+
+  }
+
+  .map-image{
+width: 150px;
+height: 100px;
+  }
+
+  .my-address{
+background-color: peachpuff;
+color: purple;
+  }
